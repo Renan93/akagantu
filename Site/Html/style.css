@@ -1,0 +1,49 @@
+td {
+	text-align: left;
+	vertical-align: top;
+	font-family:Georgia;
+	font-size:12px;
+	color:#ffffff;
+	line-height:14px;
+}
+
+body {margin:0px; padding:0px; background-image:url(images/background.jpg); background-repeat:no-repeat; background-position:center top; background-color:#9dcfdc;}
+.background_bottom {background-image:url(images/background_bottom.jpg); background-repeat:repeat-x; background-position:bottom;}
+.bottom {background-image:url(images/bottom.jpg); background-repeat:no-repeat; background-position:bottom left;}
+.line {background-image:url(images/line.jpg); background-repeat:repeat-x;}
+.line1 {background-image:url(images/line1.jpg); background-repeat:repeat-y;}
+.table_bg {background-image:url(images/table.jpg); background-repeat:repeat;}
+.yy {background-image:url(images/yy.jpg); background-repeat:repeat-x;}
+.yy1 {background-image:url(images/yy1.jpg); background-repeat:repeat-x;}
+.yy2 {background-image:url(images/yy2.jpg); background-repeat:repeat-y;}
+.yy3 {background-image:url(images/yy3.jpg); background-position:right top; background-repeat:repeat-y;}
+
+
+.menu         { font-family:Georgia, serif; font-size: 15px; color: #ffffff; text-decoration:none; font-weight:bold; display:block; width:166px; height:25px; text-align:center; padding-top:12px; float:left;}
+.menu:link    { font-family:Georgia, serif; font-size: 15px; color: #ffffff; text-decoration:none; font-weight:bold; display:block; width:166px; height:25px; text-align:center; padding-top:12px; float:left;}
+.menu:hover   { font-family:Georgia, serif; font-size: 15px; color: #065e75; text-decoration:none; font-weight:bold; display:block; width:166px; height:25px; text-align:center; padding-top:12px; float:left;}
+.menu:active  { font-family:Georgia, serif; font-size: 15px; color: #ffffff; text-decoration:none; font-weight:bold; display:block; width:166px; height:25px; text-align:center; padding-top:12px; float:left;}
+
+.menu1         { font-family:Georgia, serif; font-size: 15px; color: #ffffff; text-decoration:none; font-weight:bold; display:block; width:122px; height:25px; text-align:center; padding-top:12px; float:left;}
+.menu1:link    { font-family:Georgia, serif; font-size: 15px; color: #ffffff; text-decoration:none; font-weight:bold; display:block; width:122px; height:25px; text-align:center; padding-top:12px; float:left;}
+.menu1:hover   { font-family:Georgia, serif; font-size: 15px; color: #065e75; text-decoration:none; font-weight:bold; display:block; width:122px; height:25px; text-align:center; padding-top:12px; float:left;}
+.menu1:active  { font-family:Georgia, serif; font-size: 15px; color: #ffffff; text-decoration:none; font-weight:bold; display:block; width:122px; height:25px; text-align:center; padding-top:12px; float:left;}
+
+
+.name {color:#799fa8; font-weight:bold; }
+.name1 {color:#266b7d; font-weight:bold; }
+
+
+.pictures { float:left; margin-right:15px; padding-bottom:15px;}
+.read_im {margin-left:10px;}
+.div_line {padding-bottom:5px;}
+
+.copyright {margin-top:100px; padding-bottom:0px; font-family:Trebuchet MS; color:#3c4a2c; font-size:11px;}
+.div_menu {padding-left:17px; margin-top:12px; float:left}
+.tab {margin-left:15px; margin-right:15px;}
+.blok {margin-right:10px; padding-top:10px; padding-bottom:20px;}
+.blok1 {margin-right:10px; padding-top:5px; padding-bottom:10px;}
+.blok2 {padding-top:15px; padding-bottom:10px; font-weight:bold; color:#606060; font-size:13px; line-height:20px;}
+.blok3 {margin-right:10px; margin-left:20px; padding-top:10px; padding-bottom:20px;}
+.blok_tab {margin-left:85px; margin-top:30px; margin-right:30px; padding-bottom:18px; font-size:11px; color:#828282;}
+.blok_tab1 {margin-right:20px; padding-left:20px; padding-top:10px; padding-bottom:10px; color:#266b7d;}
