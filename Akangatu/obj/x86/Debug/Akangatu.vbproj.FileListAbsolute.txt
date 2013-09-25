@@ -1,0 +1,14 @@
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\Akangatu\Akangatu\bin\Debug\Akangatu.exe
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\Akangatu\Akangatu\bin\Debug\Akangatu.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\Akangatu\Akangatu\bin\Debug\Akangatu.xml
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\Akangatu\Akangatu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\Akangatu\Akangatu\obj\x86\Debug\Akangatu.Resources.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\Akangatu\Akangatu\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\Akangatu\Akangatu\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\Akangatu\Akangatu\obj\x86\Debug\Akangatu.exe
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\Akangatu\Akangatu\obj\x86\Debug\Akangatu.xml
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\Akangatu\Akangatu\obj\x86\Debug\Akangatu.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\Akangatu\Akangatu\obj\x86\Debug\Akangatu.frmLauncher.resources
+C:\Users\Rô\Desktop\Akangatu\Akangatu\obj\x86\Debug\Akangatu.exe
+C:\Users\Rô\Desktop\Akangatu\Akangatu\obj\x86\Debug\Akangatu.xml
+C:\Users\Rô\Desktop\Akangatu\Akangatu\obj\x86\Debug\Akangatu.pdb
